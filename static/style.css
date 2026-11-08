@@ -1,0 +1,8 @@
+/* Catppuccin Mocha */
+:root {
+  --background: #1e1e2e;
+  --color: #cdd6f4;
+  --menu-color: #cdd6f4;
+  --accent-contrast-color: #1e1e2e;
+  --border-color: rgba(205, 214, 244, 0.1);
+}

@@ -1,0 +1,5 @@
+hugo.log
+hugo_err.log
+public/
+resources/
+.hugo_build.lock
