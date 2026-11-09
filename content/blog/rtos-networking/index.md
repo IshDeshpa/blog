@@ -1,4 +1,5 @@
 +++
+slug = "rtos-networking"
 title = "ECE380L: Networking with an RTOS"
 date = "2025-05-07"
 +++

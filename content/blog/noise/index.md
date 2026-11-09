@@ -1,4 +1,5 @@
 +++
+slug = "noise"
 title = "Noise Generation"
 date = "2026-04-04"
 +++

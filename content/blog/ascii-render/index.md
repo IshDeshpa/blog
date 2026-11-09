@@ -1,4 +1,5 @@
 +++
+slug = "ascii-render"
 title = "Ascii-based Rendering"
 date = "2026-05-04"
 +++

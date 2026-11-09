@@ -1,4 +1,5 @@
 +++
+slug = "waddleos-boot"
 title = "Waddle OS -- Bootloader Bare Bones"
 date = "2025-09-29"
 +++

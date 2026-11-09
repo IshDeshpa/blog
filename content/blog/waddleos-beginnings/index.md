@@ -1,4 +1,5 @@
 +++
+slug = "waddleos-beginnings"
 title = "Waddle OS -- Beginnings"
 date = "2025-11-02"
 +++

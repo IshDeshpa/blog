@@ -1,4 +1,5 @@
 +++
+slug = "little-c-proj"
 title = "Little C Project -- Falling Sand"
 date = "2026-01-05"
 +++
