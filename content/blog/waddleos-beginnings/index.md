@@ -4,9 +4,6 @@ title = "Waddle OS -- Beginnings"
 date = "2025-11-02"
 +++
 
-November 2, 2025 (but a work in progress since the last post on September 29, 2025)
-
-
 Now we're getting to the meat and potatoes of this project. Or maybe not.
 
 Even after setting up a basic bootloader and booting into the kernel, there's still a lot of stuff we have to do. In a vague ordering:

@@ -4,9 +4,6 @@ title = "Little C Project -- Falling Sand"
 date = "2026-01-05"
 +++
 
-January 05, 2026
-
-
 So it turns out I can't work all day and all night on a single project without burning out on it. And yes, I know I said last post that I would get it out by the end of 2025, but that didn't end up happening. Don't worry, I'm still working on memory allocation and hyper-optimizing my bitmap algorithms, but I think I need some instant gratification to provide a break in my routine.
 
 Advent of Code is an option. I did say I was going to do that this year but I completely forgot. And furthermore, I want to work on something a little more original.

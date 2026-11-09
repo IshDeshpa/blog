@@ -4,8 +4,6 @@ title = "Noise Generation"
 date = "2026-04-04"
 +++
 
-April 04, 2026
-
 I wanted to experiment with noise-based world generation using white, value, and Perlin noise after I learned about them in my Graphics class. So I built a quick little script to generate Minecraft-style worlds with them. Here's some screenshots.
 
 [Repo link](https://github.com/IshDeshpa/misc-projects)

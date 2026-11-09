@@ -4,32 +4,6 @@ title = "ECE380L: Networking with an RTOS"
 date = "2025-05-07"
 +++
 
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see useful information and inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 7
-
-Conversion time: 1.477 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β44
-* Tue May 06 2025 22:34:20 GMT-0700 (PDT)
-* Source doc: ECE380L.12 Project Report
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-May 07, 2025
 ## Preface:
 
 Maanav and I completed a basic functional wifi stack. Here's the project report if interested.

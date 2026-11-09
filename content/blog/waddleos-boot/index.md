@@ -4,9 +4,6 @@ title = "Waddle OS -- Bootloader Bare Bones"
 date = "2025-09-29"
 +++
 
-September 29, 2025 (but a work in progress since early June)
-
-
 I've finally started my OS-dev project. In the effort of trying to document what I learn, I'm going to try to use this blog more frequently as a means of writing to an audience about the new stuff I learn.
 
 You can find the source code [here](https://github.com/IshDeshpa/WaddleOS). I'm calling it WaddleOS because it's my first baby steps towards an operating system but also because of the Linux mascot being a penguin.

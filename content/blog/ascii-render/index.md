@@ -4,8 +4,6 @@ title = "Ascii-based Rendering"
 date = "2026-05-04"
 +++
 
-May 04, 2026
-
 For my graphics final project, my partner *Eva Nance* and I implemented ascii-based rendering hugely inspired by [this blog post](https://alexharri.com/blog/ascii-rendering). 
 
 I really loved the demos and explanation this provided, so go check out the original author Alex Harri!
